@@ -1,6 +1,6 @@
 # [:] Example Maven Project
 
-An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.sss
+An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.sssf
 
 ## Try me!
 
